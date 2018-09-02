@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="App" type="CLASS" />
+      <mapping pattern="sararus" type="HTML" />
+      <mapping pattern="ыфкфкгы" type="PLAIN_TEXT" />
       <mapping pattern="client-template.ejs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
